@@ -4,7 +4,7 @@ Hi 👋 My name is Celeste
 Software Developer | Blender Artist
 -----------------------------------
 
-* 🖥️  See my portfolio at [Here](http://celeste.kesuge.com)
+* 🖥️  See my portfolio at [Here](http://celeste.kesug.com)
 * ✉️  You can contact me at [celestegml205@gmail.com](mailto:celestegml205@gmail.com)
 * 🧠  I'm learning Discord.py
 * 🤝  I'm open to collaborating on Discord bots, dynamic websites, and back-end development to create seamless and interactive solutions
