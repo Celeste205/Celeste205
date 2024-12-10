@@ -8,7 +8,7 @@ Software Developer | Blender Artist
 * ✉️  You can contact me at [celestegml205@gmail.com](mailto:celestegml205@gmail.com)
 * 🧠  I'm learning Discord.py
 * 🤝  I'm open to collaborating on Discord bots, dynamic websites, and back-end development to create seamless and interactive solutions
-* ⚡  Celery
+* ⚡  This is a new profile, IM NOT A SCAMER I PROMISE
 
 <a href="https://www.x.com/celesteontop" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/celesteontop?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
