@@ -9,7 +9,7 @@ Software Developer | Blender Artist
 * 🧠  I'm currently learning `Django`
 * 🤝  I'm open to collaborating `on everything as long as I like the idea.`
 
-[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,cs,java,python,php,rust,git)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,cs,java,python,php,rust,git,typescript)](https://skillicons.dev)     
 [![My Skills](https://skillicons.dev/icons?i=react,html,vue,css)](https://skillicons.dev)
 
 *This is a new profile, im not a scamer*
