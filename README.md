@@ -12,4 +12,3 @@ Software Developer | Blender Artist
 [![My Skills](https://skillicons.dev/icons?i=js,c,cpp,cs,java,python,php,rust,git,typescript)](https://skillicons.dev)     
 [![My Skills](https://skillicons.dev/icons?i=react,html,vue,css)](https://skillicons.dev)
 
-*This is a new profile, im not a scamer*
