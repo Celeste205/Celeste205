@@ -4,7 +4,7 @@ Hi 👋 My name is Celeste
 Software Developer | Blender Artist
 -----------------------------------
 
-* 🖥️  My website [`Click`](http://celeste.kesug.com)
+* 🖥️  My website [`Click`](http://celery.2kool4u.net)
 * ✉️  You can contact me at [`Email`](mailto:celestegml205@gmail.com)
 * 🧠  I'm currently learning `Django`
 * 🤝  I'm open to collaborating `on everything as long as I like the idea.`
